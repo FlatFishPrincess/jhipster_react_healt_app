@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.health",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "TwentyOnePoints",
+    "packageName": "org.jhipster.health",
+    "packageFolder": "org/jhipster/health",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODRjNjI3OTQxNDVkNDMwMjdhNjcwZTljY2I0ODYxOWM4Y2RkM2VmYWViZmNmZTAwYTI2MTcyNjg0M2MxNzdjNDcwNDY5YTZlODhkYzVkY2QxYjM3N2EyNDE5YTk3YjE1NjkwYTA0MWI5ZjM2YTUxZjA2NGNjZThhODgxZmFkOTQ=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ko"
+    ]
+  }
+}
